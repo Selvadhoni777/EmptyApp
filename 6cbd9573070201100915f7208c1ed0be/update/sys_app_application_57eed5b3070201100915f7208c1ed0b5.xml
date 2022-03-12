@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Empty app</description>
+        <device_type>browser</device_type>
+        <hint>Empty app</hint>
+        <name/>
+        <order/>
+        <roles>x_763471_empty.admin,x_763471_empty.user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-12 04:20:36</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>57eed5b3070201100915f7208c1ed0b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Empty</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Empty" source="x_763471_empty">6cbd9573070201100915f7208c1ed0be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Empty">6cbd9573070201100915f7208c1ed0be</sys_scope>
+        <sys_update_name>sys_app_application_57eed5b3070201100915f7208c1ed0b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-12 04:20:36</sys_updated_on>
+        <title>Empty</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
